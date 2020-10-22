@@ -1,3 +1,9 @@
-body {
-    background-image: "./charlotte.jpg";
+.home-heading {
+    color: white;
+    font-size: 200px;
+    text-align: right;
+}
+.home-subheading {
+    color: white;
+    text-align: right;
 }
