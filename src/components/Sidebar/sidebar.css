@@ -160,3 +160,21 @@ li a {
     font-size: large;
 
 }
+
+
+
+@media (max-width: 800px) {
+
+    .site-sidebar {
+        position: relative;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        height: 750px;
+        font-size: 14px;
+        color: #fff;
+        text-align: center;
+        background-color: rgb(44, 146, 241);
+    }
+
+  }
