@@ -5,7 +5,7 @@ import headshot from "./IMG_5813.png"
 function Sidebar() {
     return (
         <aside className="site-sidebar">
-            <div className="site-sidebar-inner h-card">
+            <div className="site-sidebar-inner h-card text-center">
                 <a href="/" rel="me" class="person u-url">
                     <div className="person-avatar u-photo">
                         <img src={headshot} alt="#" className= "avatar"/>
@@ -25,15 +25,15 @@ function Sidebar() {
                                 <i className="fa fa-linkedin"></i>
                             </a>
                             <a rel="me" href="https://github.com/sharkattack182" className="button button-icon" title="github: sharkattack182">
-                                <i className="fa fa-github"></i>
+                                <i className="fab fa-github-square"></i>
                             </a>
                         </div>
                         <a href="#" className="navigation-extend-button js-extend-main-navigation">
                             <i className="fa fa-bars"></i>
                         </a>
                     </div>
-                    <div className="navigation-extendable">
-                        <ul>
+                    <div className="navigation-extendable text-center">
+                        <ul className="text-center">
                             <li>
                                 <a href="/portfolio/">Portfolio</a>
                             </li>
@@ -48,15 +48,15 @@ function Sidebar() {
                     <div className="block block-social">
                         <div className="block-title">Get in touch</div>
                         <div className="block-content">
-                            <div className="social-icons">
+                            <div className="social-icons text-center">
                                 <a rel="me" href="mailto:matthewdc182@gmail.com" className="button button-icon u-email" title="mail:matthewdc182@gmail.com">
-                                    <i className="fa fa-envelope"></i>
+                                    <i className="fa fa-envelope float"></i>
                                 </a>
                                 <a rel="me" href="https://www.linkedin.com/in/matthew-courtney-2854811b5/" className="button button-icon" title="linkedin: matthew-courtney">
-                                    <i className="fa fa-linkedin-square"></i>
+                                    <i className="fab fa-linkedin float"></i>
                                 </a>
                                 <a rel="me" href="https://github.com/sharkattack182" className="button button-icon" title="github: sharkattack182">
-                                    <i className="fa fa-github-square"></i>
+                                    <i className="fab fa-github-square float"></i>
                                 </a>
                             </div>
                         </div>
