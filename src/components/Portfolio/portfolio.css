@@ -1,0 +1,12 @@
+.container-custom {
+    padding-top: 130px;
+}
+
+.portfolio {
+    background-color: turquoise;
+    text-align: right;
+    max-width: 1000px;
+    margin-left: 35%;
+    margin-right: auto;
+}
+
