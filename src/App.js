@@ -7,9 +7,7 @@ import Row from 'react-bootstrap/Row'
 function App() {
   return (
     <div className="App">
-    <Row >
-      <div className="col-xs-12"><Sidebar /></div>
-    </Row>
+ <Sidebar />
   
   <Body />
     </div>

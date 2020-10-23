@@ -7,3 +7,34 @@
     color: white;
     text-align: right;
 }
+
+.home-buttons {
+    text-align: right;
+    padding-bottom: 50px;
+}
+.button-white {
+    border: white;
+    border-style: solid;
+    color: white;
+    font-size: 25px;
+    margin-top: 50px;
+    text-transform: uppercase;
+    
+}
+
+.button-white:hover {
+    color: white;
+    text-decoration: none;
+    
+}
+
+@media (max-width: 1400px) {
+    .home-heading{
+        font-size: 75px;
+        padding: 10px;
+    }
+    .home-subheading{
+        font-size: 25px;
+        padding: 10px;
+    }
+    }
