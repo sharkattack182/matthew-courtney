@@ -172,7 +172,7 @@ li a:hover {
 }
 
 
-@media (max-width: 1500px) {
+@media (max-width: 1200px) {
 
     .site-sidebar {
         position: relative;
