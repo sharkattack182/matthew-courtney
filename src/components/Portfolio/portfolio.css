@@ -135,7 +135,7 @@ img.grayscale {
 
         /* Responsive Sectiom */
 
-        @media (max-width: 1400px) {
+        @media (max-width: 900px) {
             .portfolio{
                 margin-left: 0;
                 margin-right: 0;
