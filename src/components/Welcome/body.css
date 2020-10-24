@@ -40,4 +40,9 @@
         font-size: 25px;
         padding: 10px;
     }
+    .site-main {
+        background-color: grey;
+        background-size: cover;
+        height: 100vh;
+    }
     }

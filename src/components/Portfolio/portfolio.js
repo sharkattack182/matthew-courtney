@@ -8,7 +8,7 @@ function Portfolio() {
     return (
         <div className="container-custom">
             <div className="portfolio">
-                <h1 className="header">Portfolio</h1>
+                <h1 className="heading">Portfolio</h1>
                 <div className="row">
                     <div className="col-lg-3">
                         <div className="card">

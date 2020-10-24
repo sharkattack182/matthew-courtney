@@ -1,7 +1,7 @@
 .container-custom {
     padding-top: 100px;
 }
-.header {
+.heading {
     padding-top: 25px;
     padding-bottom: 25px;
     color: white;
@@ -166,7 +166,7 @@ img.grayscale {
 
 
             @media (min-width: 2000px) {
-                .header {
+                .heading {
                     padding-top: 25px;
                     padding-bottom: 30px;
                     font-family: Roboto,Helvetica,sans-serif;

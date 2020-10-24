@@ -8,7 +8,7 @@ function Sidebar() {
             <div className="site-sidebar-inner h-card text-center">
                 <a href="/" rel="me" className="person u-url">
                     <div className="person-avatar u-photo">
-                        <img src={headshot} alt="#" className= "avatar"/>
+                        <img src={headshot} alt="#" className="avatar" />
                     </div>
                     <div className="person-content">
                         <h1 className="person-title p-name">Matthew Courtney</h1>
@@ -48,17 +48,22 @@ function Sidebar() {
                     <div className="block block-social">
                         <div className="block-title">Get in touch</div>
                         <div className="block-content">
-                            <div className="social-icons text-center">
-                                <a rel="me" href="mailto:matthewdc182@gmail.com" className="button button-icon u-email" title="mail:matthewdc182@gmail.com">
-                                    <i className="fa fa-envelope float"></i>
-                                </a>
-                                <a rel="me" href="https://www.linkedin.com/in/matthew-courtney-2854811b5/" className="button button-icon" title="linkedin: matthew-courtney">
-                                    <i className="fab fa-linkedin float"></i>
-                                </a>
-                                <a rel="me" href="https://github.com/sharkattack182" className="button button-icon" title="github: sharkattack182">
-                                    <i className="fab fa-github-square float"></i>
-                                </a>
+                            <div className="row text-center">
+                                <div className="col-12 social-icons">
+
+                                    <a rel="me" href="mailto:matthewdc182@gmail.com" className="button button-icon u-email" title="mail:matthewdc182@gmail.com">
+                                        <i className="fa fa-envelope"></i>
+                                    </a>
+                                    <a rel="me" href="https://www.linkedin.com/in/matthew-courtney-2854811b5/" className="button button-icon" title="linkedin: matthew-courtney">
+                                        <i className="fab fa-linkedin"></i>
+                                    </a>
+                                    <a rel="me" href="https://github.com/sharkattack182" className="button button-icon" title="github: sharkattack182">
+                                        <i className="fab fa-github-square"></i>
+                                    </a>
+
+                                </div>
                             </div>
+
                         </div>
                     </div>
                 </nav>
