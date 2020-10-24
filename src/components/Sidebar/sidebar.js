@@ -6,7 +6,7 @@ function Sidebar() {
     return (
         <aside className="site-sidebar">
             <div className="site-sidebar-inner h-card text-center">
-                <a href="/" rel="me" class="person u-url">
+                <a href="/" rel="me" className="person u-url">
                     <div className="person-avatar u-photo">
                         <img src={headshot} alt="#" className= "avatar"/>
                     </div>
