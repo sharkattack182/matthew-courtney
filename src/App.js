@@ -9,9 +9,12 @@ import { BrowserRouter as Router, Route } from 'react-router-dom';
 function App() {
   return (
     <div className="App">
-      <Sidebar />
-      <Route exact path="/" component={Welcome} />
-      <Route exact path="/portfolio" component={Portfolio} />
+      <Router>
+        <Sidebar />
+        <Route exact path="/" component={Welcome} />
+        <Route exact path="/portfolio" component={Portfolio} />
+      </Router>
+
     </div>
   );
 }
