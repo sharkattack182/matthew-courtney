@@ -172,7 +172,7 @@ li a:hover {
 }
 
 
-@media (max-width: 1400px) {
+@media (max-width: 1500px) {
 
     .site-sidebar {
         position: relative;
@@ -195,10 +195,6 @@ li a:hover {
     }
     .block-title {
         display: none;
-    }
-    .float {
-        margin-left: auto;
-        margin-right: auto;
     }
     .social-icons {
        margin-left:20px;
