@@ -10,7 +10,7 @@
     left: 0;
     position: fixed;
     z-index: 2;
-    width: 25%;
+    width: 32%;
     font-size: 14px;
     color: #fff;
     text-align: left;
@@ -44,10 +44,10 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, 
 .person .person-avatar {
     border-radius: 50%;
     margin-bottom: 10px;
-    
 }
 .u-photo img {
     border-radius: 50% !important;
+    
 }
 .person .person-content {
     margin-left: -40px;
@@ -212,6 +212,22 @@ li a:hover {
         padding: 0;
     
     }
+
   }
 
-  
+  @media screen and (min-width: 900px) and (max-width:1300px) {
+    .site-sidebar .block-social {
+        font-size: 16px;
+    }
+    
+    .site-sidebar .block .block-title {
+        font-size: 26px;
+        font-weight: 300;
+        color: #aaa;
+        color: rgba(255,255,255,.5);
+        margin-bottom: 15px;
+        padding-top: 30px;
+    
+    }
+    
+  }
