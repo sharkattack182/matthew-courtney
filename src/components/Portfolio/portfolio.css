@@ -143,7 +143,7 @@ img.grayscale {
                 max-width: 100vw;
             }
            .container-custom {
-               padding: 0;
+               padding: 0 !important;
                background-color: white;
            }
            .row {

@@ -18,7 +18,7 @@ function Body() {
 
                         <div className="home-buttons">
                             <a href="/portfolio/" className="button button-outline button-white">Portfolio</a>
-
+                            <a href="/contact/" className="button button-outline button-white">Contact</a>
                         </div>
                     </div>
                 </div>

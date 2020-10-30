@@ -1,0 +1,32 @@
+.container-custom {
+    padding-top: 100px;
+}
+.heading {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color: white;
+}
+.contact {
+    background-color:  rgba(44, 146, 241, 0.8);
+    text-align: right;
+    max-width: 1100px;
+    margin-left: 35%;
+    margin-right: auto;
+    padding-bottom: 40px;
+}
+.contact p {
+    color: white;
+    padding-right: 15px;
+    
+}
+
+@media (max-width: 900px) {
+    .contact {
+        background-color:  grey;
+        text-align: center;
+        width: 100vw;
+        height: 100vh;
+        padding-bottom: 40px;
+        margin: 0;
+    }
+    }
