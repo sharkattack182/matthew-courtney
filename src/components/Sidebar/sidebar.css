@@ -195,10 +195,12 @@ li a:hover {
         background-color: rgb(44, 146, 241);
     }
 
-    .navigation-extendable {
-        display:none;
+    .main-navigation .navigation-extend-bar a {
+        display: inline;
     }
-
+    .navigation-extend-bar {
+        display: block;
+    }
     .block-social {
         display: inline;
     }

@@ -52,7 +52,7 @@ function Sidebar() {
                                 <div className="col-12 social-icons">
 
                                     <a rel="me" href="mailto:matthewdc182@gmail.com" className="button button-icon u-email" title="mail:matthewdc182@gmail.com">
-                                        <i className="fa fa-envelope"></i>
+                                        <i className="fa fa-envelope "></i>
                                     </a>
                                     <a rel="me" href="https://www.linkedin.com/in/matthew-courtney-2854811b5/" className="button button-icon" title="linkedin: matthew-courtney">
                                         <i className="fab fa-linkedin"></i>
