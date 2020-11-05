@@ -157,10 +157,25 @@ img.grayscale {
             padding-right:0;
            }
            .card {
+            width: 90%;
             margin-right: auto;
             margin-left: auto; 
             margin-bottom: 30px;
             padding:0;
+           }
+
+           .content .header {
+               font-size: 37px;
+           }
+           .content .meta {
+               display: none;
+           }
+           .content .description {
+               font-size: 25px;
+           }
+           .btn-info {
+               font-size: 40px;
+               margin: 20px;
            }
             }
 

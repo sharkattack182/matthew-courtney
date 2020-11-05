@@ -22,6 +22,28 @@
     
 }
 
+.contact a {
+    color: white;
+}
+.direct-button {
+    border: white;
+    border-style: solid;
+    color: white;
+    font-size: 25px;
+    margin-top: 50px;
+    text-transform: uppercase;
+    
+}
+
+.direct-button:hover {
+    color: white;
+    text-decoration: none;
+    
+}
+
+.home-section-inner {
+    padding: 20px;
+}
 @media (max-width: 900px) {
     .contact {
         background-color:  grey;
@@ -32,5 +54,8 @@
         margin-left: 0;
         margin-right: 0;
 
+    }
+    .container-custom {
+        height: 100vh;
     }
     }
