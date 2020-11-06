@@ -57,6 +57,7 @@ function Portfolio() {
                         </div>
                     </div>
                 </div>
+                <p className="port">These are a few projects from my bootcamp. I currently have a few other projects in the works. To see my other work please check out my GitHub at the link below.</p>
             </div>
         </div>
 

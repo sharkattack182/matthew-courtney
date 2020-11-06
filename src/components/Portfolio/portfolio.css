@@ -131,7 +131,13 @@ img.grayscale {
         }
         
 
-
+.port {
+    color: white;
+    font-size: 27px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
 
         /* Responsive Sectiom */
 

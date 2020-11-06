@@ -1,5 +1,21 @@
 .container-resume {
-    background-image: url("https://d3e1m60ptf1oym.cloudfront.net/1877c674-d86d-41cd-a8d7-0d6948c0da4c/DSC8215-Charlotte-Skyline-Black-White-Image_xgaplus.jpg");
-    background-size: cover;
-    height: 100vh;
+    background-color:  rgba(44, 146, 241, 0.8);
+    text-align: center;
+    max-width: 1100px;
+    margin-left: 35%;
+    margin-right: auto;
+    padding-bottom: 40px;
 }
+
+.container-resume p {
+    color: white;
+    font-size: 30px;
+}
+
+@media (max-width: 900px) {
+    .container-resume {
+        background-image: url("https://d3e1m60ptf1oym.cloudfront.net/1877c674-d86d-41cd-a8d7-0d6948c0da4c/DSC8215-Charlotte-Skyline-Black-White-Image_xgaplus.jpg");
+        background-size: cover;
+        height: 100vh;
+    }
+    }

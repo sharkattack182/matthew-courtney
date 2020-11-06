@@ -5,6 +5,7 @@
     font-size: 65px;
     padding-top: 25px;
     padding-bottom: 25px;
+    padding-right: 35px;
     color: white;
 }
 .contact {
@@ -17,29 +18,23 @@
 }
 .contact p {
     color: white;
-    padding-right: 15px;
+    padding-right: 35px;
     font-size: 35px;
     
 }
 
+.buttonz {
+    padding-right: 35px;
+}
 .contact a {
     color: white;
 }
-.direct-button {
-    border: white;
-    border-style: solid;
-    color: white;
-    font-size: 25px;
-    margin-top: 50px;
-    text-transform: uppercase;
-    
+.button-white:hover {
+    background-color: rgb(253, 253, 253, .3);
 }
 
-.direct-button:hover {
-    color: white;
-    text-decoration: none;
-    
-}
+
+
 
 .home-section-inner {
     padding: 20px;
