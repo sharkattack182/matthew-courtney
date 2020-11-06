@@ -58,6 +58,7 @@ function Portfolio() {
                     </div>
                 </div>
                 <p className="port">These are a few projects from my bootcamp. I currently have a few other projects in the works. To see my other work please check out my GitHub at the link below.</p>
+                <a href="https://github.com/sharkattack182" id="btn" className="button button-outline button-white">GitHub</a>
             </div>
         </div>
 

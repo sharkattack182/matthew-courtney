@@ -17,5 +17,10 @@
         background-image: url("https://d3e1m60ptf1oym.cloudfront.net/1877c674-d86d-41cd-a8d7-0d6948c0da4c/DSC8215-Charlotte-Skyline-Black-White-Image_xgaplus.jpg");
         background-size: cover;
         height: 100vh;
+        margin: 0;
+    }
+    .heading {
+        margin-left: auto;
+        margin-right: auto;
     }
     }
