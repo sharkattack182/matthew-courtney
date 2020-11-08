@@ -41,7 +41,7 @@ function Portfolio() {
                                 <a href="https://github.com/sharkattack182/react-employee" target="_blank"><button type="button"
                                     class="btn btn-info zoom"><i class="fab fa-github"></i></button></a>
                                 <br />
-                                <a href="/port2" target="_blank"><button type="button"
+                                <a href="/port2"><button type="button"
                                     class="btn btn-info zoom">More Info</button></a>
                             </div>
                         </div>
@@ -58,7 +58,7 @@ function Portfolio() {
                                 <a href="https://github.com/sharkattack182/react-employee" target="_blank"><button type="button"
                                     class="btn btn-info zoom"><i class="fab fa-github"></i></button></a>
                                 <br />
-                                <a href="/port3" target="_blank"><button type="button"
+                                <a href="/port3"><button type="button"
                                     class="btn btn-info zoom">More Info</button></a>
                             </div>
                         </div>
