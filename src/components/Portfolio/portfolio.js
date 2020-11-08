@@ -4,6 +4,7 @@ import img1 from './imgs/equippe.png'
 import img2 from './imgs/employee.png'
 import img3 from './imgs/pokedex.png'
 
+
 function Portfolio() {
     return (
         <div className="container-custom">
@@ -22,7 +23,7 @@ function Portfolio() {
                                 <a href="https://github.com/sharkattack182/project-3" target="_blank"><button type="button"
                                     class="btn btn-info zoom"><i class="fab fa-github"></i></button></a>
                                 <br />
-                                <a href="https://github.com/sharkattack182/react-employee" target="_blank"><button type="button"
+                                <a href="/port1"><button type="button"
                                     class="btn btn-info zoom">More Info</button></a>
                             </div>
                         </div>
@@ -40,7 +41,7 @@ function Portfolio() {
                                 <a href="https://github.com/sharkattack182/react-employee" target="_blank"><button type="button"
                                     class="btn btn-info zoom"><i class="fab fa-github"></i></button></a>
                                 <br />
-                                <a href="https://github.com/sharkattack182/react-employee" target="_blank"><button type="button"
+                                <a href="/port2" target="_blank"><button type="button"
                                     class="btn btn-info zoom">More Info</button></a>
                             </div>
                         </div>
@@ -57,7 +58,7 @@ function Portfolio() {
                                 <a href="https://github.com/sharkattack182/react-employee" target="_blank"><button type="button"
                                     class="btn btn-info zoom"><i class="fab fa-github"></i></button></a>
                                 <br />
-                                <a href="https://github.com/sharkattack182/react-employee" target="_blank"><button type="button"
+                                <a href="/port3" target="_blank"><button type="button"
                                     class="btn btn-info zoom">More Info</button></a>
                             </div>
                         </div>
