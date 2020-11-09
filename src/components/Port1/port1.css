@@ -1,4 +1,25 @@
 .hello {
     color: white;
     font-size: 120px;
+    padding-top: 25px;
+    text-align: center;
+}
+
+.container-port {
+    margin-left: 35%;
+    padding-top: 100px;
+
+}
+
+.blue {
+    background-color:  rgba(44, 146, 241, 0.8);
+    padding-left: 30px;
+    max-width: 1100px;
+    padding-right: 30px;
+    text-align: center;
+}
+
+.blue p {
+    color: white;
+    font-size: 25px;
 }
