@@ -16,9 +16,9 @@ function App() {
     <div className="App">
       <Router>
         <Sidebar />
-        <Route exact path="https://sharkattack182.github.io/matthew-courtney/" component={Welcome} />
-        <Route exact path="https://sharkattack182.github.io/portfolio" component={Portfolio} />
-        <Route exact path="https://sharkattack182.github.io/contact" component={Contact} />
+        <Route exact path="/" component={Welcome} />
+        <Route exact path="portfolio" component={Portfolio} />
+        <Route exact path="/contact" component={Contact} />
         <Route exact path="/resume" component={Resume} />
         <Route exact path="/port1" component={Port1} />
         <Route exact path="/port2" component={Port2} />
